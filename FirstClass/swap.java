@@ -1,7 +1,7 @@
 // write the programm that  read two intger from the keybord and display the value before swapping them using the third variabble ?
 import java.util.Scanner;
 
-public class main1{
+public class swap{
   public static void main(String[] args) {
       Scanner number = new Scanner(System.in);
       System.out.print("Enter the first number: ");
