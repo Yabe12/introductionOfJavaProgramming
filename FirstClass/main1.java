@@ -1,3 +1,4 @@
+// write the programm that  read two intger from the keybord and display the value before swapping them using the third variabble ?
 import java.util.Scanner;
 
 public class main1{
