@@ -14,8 +14,6 @@ class employ{
   public int getid(){
     return id;
   }
-
-
   public void displayDetails() {
     System.out.println("ID: " + id + ", Name: " + name + ", Salary: " + salary);
 }
