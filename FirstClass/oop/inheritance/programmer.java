@@ -3,15 +3,26 @@ class animal {
         System.out.println("Can make sound");
     }
 }
-
-class cat extends animal {
+class Manager extends animal {
+  
+    public void makeSound() {
+        System.out.println("miaw miaw");
+    }
+}
+class Developer extends animal {
+  
+    public void makeSound() {
+        System.out.println("miaw miaw");
+    }
+}
+class programmer extends animal {
   
     public void makeSound() {
         System.out.println("miaw miaw");
     }
 }
 
-public class Animals {
+public class programmer {
     public static void main(String[] args) {
        
       cat a = new cat();
